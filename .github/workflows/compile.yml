@@ -1,0 +1,55 @@
+name: Compile Wiki
+
+on:
+  push:
+    paths: ["raw/**", "scripts/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: compile-wiki
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed raw files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD^ HEAD -- raw/ | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+          echo "Changed files: $FILES"
+
+      - uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Compile wiki (incremental)
+        run: |
+          if [ -n "${{ steps.changed.outputs.files }}" ]; then
+            uv run python scripts/compile.py --changed-files ${{ steps.changed.outputs.files }}
+          else
+            uv run python scripts/compile.py
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit wiki changes
+        run: |
+          git config user.name "wiki-bot"
+          git config user.email "wiki-bot@yoonagain.com"
+          git add wiki/
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "auto: compile wiki [skip ci]"
+            git pull --rebase origin main
+            git push

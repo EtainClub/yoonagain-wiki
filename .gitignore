@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+.uv/
+
+# Firebase credentials (절대 커밋하지 말 것)
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+*.pem
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
