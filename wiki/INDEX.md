@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 83개 페이지
+> 자동 생성: 2026-04-19 | 전체 87개 페이지
 
-## 인물 (26)
+## 인물 (28)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -24,6 +24,8 @@
 - [[wiki/entity/yoon-eogain|윤어게인]]
 - [[wiki/entity/euncia-solution|이성을 찾자! YOON AGAIN! RESET KOREA!]]
 - [[wiki/entity/eunicias-solution|이성을 찾자! YOON AGAIN! RESET KOREA!]]
+- [[wiki/entity/lee-young-don|이영돈]]
+- [[wiki/entity/lee-young-don|이영돈]]
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
@@ -92,10 +94,12 @@
 - [[wiki/cluster/korean-youtubers|한국 유튜버 클러스터]]
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
 
-## 이벤트 (5)
+## 이벤트 (7)
 
 - [[wiki/event/kim-saeron-death-incident|김새론 사망 사건]]
 - [[wiki/event/moon-jae-in-residence-protest-incident|문재인 사저 앞 시위 논란]]
+- [[wiki/event/false-election-gods-work-2025|부정선거, 신의 작품인가]]
+- [[wiki/event/film-election-fraud-gods-work|부정선거, 신의 작품인가 (영화)]]
 - [[wiki/event/buddha-birthday-jogye-temple-incident|부처님오신날 조계사 앞 전도 및 기도행진 논란]]
 - [[wiki/event/kookmin-power-debate-battle-1|제1회 국민의힘 토론배틀: 나는 국민의힘 대변인이다]]
 - [[wiki/event/jeju-air-2216-runway-incident|제주항공 2216편 활주로 이탈 사고]]
