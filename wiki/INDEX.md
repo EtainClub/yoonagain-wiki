@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 77개 페이지
+> 자동 생성: 2026-04-19 | 전체 78개 페이지
 
-## 인물 (22)
+## 인물 (23)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -26,6 +26,7 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
+- [[wiki/entity/hchannelx|HchannelX]]
 
 ## 단체 (10)
 
