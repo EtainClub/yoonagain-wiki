@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 94개 페이지
+> 자동 생성: 2026-04-19 | 전체 102개 페이지
 
-## 인물 (30)
+## 인물 (32)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -14,6 +14,8 @@
 - [[wiki/entity/morse-tan|모스 탄]]
 - [[wiki/entity/morse-tan|모스 탄]]
 - [[wiki/entity/park-joo-hyeon|박주현]]
+- [[wiki/entity/baek-gwang-hyun|백광현]]
+- [[wiki/entity/baek-gwang-hyun|백광현]]
 - [[wiki/entity/baek-ji-won|백지원]]
 - [[wiki/entity/ahn-jung-kwon|안정권]]
 - [[wiki/entity/annie-chan|애니 챈]]
@@ -48,7 +50,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (41)
+## 주제 (44)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -57,6 +59,7 @@
 - [[wiki/topic/korean-far-right-youtubers|극우 유튜버]]
 - [[wiki/topic/trump-administration-personnel|도널드 트럼프 행정부 인사]]
 - [[wiki/topic/trump-administration-personnel|도널드 트럼프 행정부 인사]]
+- [[wiki/topic/moon-pa-live-aid|문파 라이브 에이드]]
 - [[wiki/topic/us-ambassador-icc|미국 국제형사사법대사]]
 - [[wiki/topic/us-ambassador-icc|미국 국제형사사법대사]]
 - [[wiki/topic/korean-democracy-advisory-conference|민주평화통일자문회의]]
@@ -76,6 +79,7 @@
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
+- [[wiki/topic/pro-lee-nak-yeon|친이낙연]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
 - [[wiki/topic/korean-conspiracy-theories|한국 음모론]]
 - [[wiki/topic/korean-political-persecution|한국 정치 박해]]
@@ -88,19 +92,21 @@
 - [[wiki/topic/korea-us-alliance|한미동맹]]
 - [[wiki/topic/han-mi-alliance|한미동맹단]]
 - [[wiki/topic/han-mi-leaders-forum|한미리더스포럼]]
+- [[wiki/topic/anti-lee-jae-myung|anti-lee-jae-myung]]
 - [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 
-## 클러스터 (5)
+## 클러스터 (6)
 
 - [[wiki/cluster/conservative-political-influencers|보수 정치 인플루언서]]
 - [[wiki/cluster/conservative-activists|보수 활동가 클러스터]]
 - [[wiki/cluster/youth-conservative-activists|청년 보수 활동가 및 논평자]]
 - [[wiki/cluster/korean-youtubers|한국 유튜버 클러스터]]
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
+- [[wiki/cluster/pro-lee-nak-yeon-activists|pro-lee-nak-yeon-activists]]
 
-## 이벤트 (8)
+## 이벤트 (10)
 
 - [[wiki/event/kim-saeron-death-incident|김새론 사망 사건]]
 - [[wiki/event/moon-jae-in-residence-protest-incident|문재인 사저 앞 시위 논란]]
@@ -108,5 +114,7 @@
 - [[wiki/event/film-election-fraud-gods-work|부정선거, 신의 작품인가 (영화)]]
 - [[wiki/event/buddha-birthday-jogye-temple-incident|부처님오신날 조계사 앞 전도 및 기도행진 논란]]
 - [[wiki/event/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 1심 판결 (2026)]]
+- [[wiki/event/lee-nak-yeon-primary-election-protest|이낙연 지지자 민주당 경선 선관위 결정 불복 시위]]
+- [[wiki/event/lee-nak-yeon-supporters-primary-protest|이낙연 지지자 민주당 경선 선관위 결정 불복 시위]]
 - [[wiki/event/kookmin-power-debate-battle-1|제1회 국민의힘 토론배틀: 나는 국민의힘 대변인이다]]
 - [[wiki/event/jeju-air-2216-runway-incident|제주항공 2216편 활주로 이탈 사고]]
