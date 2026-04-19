@@ -1,9 +1,10 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 75개 페이지
+> 자동 생성: 2026-04-19 | 전체 77개 페이지
 
-## 인물 (21)
+## 인물 (22)
 
+- [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
 - [[wiki/entity/ko-sung-kuk|고성국]]
 - [[wiki/entity/groundc|그라운드C]]
@@ -77,8 +78,9 @@
 - [[wiki/topic/han-mi-leaders-forum|한미리더스포럼]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 
-## 클러스터 (4)
+## 클러스터 (5)
 
+- [[wiki/cluster/conservative-political-influencers|보수 정치 인플루언서]]
 - [[wiki/cluster/conservative-activists|보수 활동가 클러스터]]
 - [[wiki/cluster/youth-conservative-activists|청년 보수 활동가 및 논평자]]
 - [[wiki/cluster/korean-youtubers|한국 유튜버 클러스터]]
