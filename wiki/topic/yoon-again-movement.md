@@ -2,21 +2,21 @@
 pageId: topic:yoon-again-movement
 pageType: topic
 slug: yoon-again-movement
-title: "윤어게인 운동"
-tags: [운동, 정치운동, 보수]
-keywords: [윤어게인, 윤석열, 직무복귀, 부정선거]
+title: "Yoon Again 운동"
+tags: [운동, 윤석열, 보수, 복직 요구]
+keywords: [Yoon Again, 윤석열, 부정선거, 복직, 반공]
 generatedAt: 2026-04-19
 generatedBy: claude-haiku-4-5
 ---
 
 ## 개요
 
-윤어게인(Yoon Again) 운동은 윤석열 대통령 직무복귀를 지지하는 온라인 운동이다. 부정선거 척결을 기본 원칙으로 하며, X(트위터)를 포함한 소셜미디어 플랫폼에서 활발히 전개된다.
+'Yoon Again'은 윤석열 대통령 복직 및 부정선거 시정을 넘어 국가 재건을 표방하는 우파 운동이다. [[entity:haeng-un|행운]]을 포함한 X 기반 인플루언서들이 이 운동을 확산하고 있다.
 
-## 주요 활동가
+## 이념적 기초
 
-[[entity:hchannelx|HchannelX]] (@XFamily369)는 윤어게인 계정 성장을 긍정적으로 평가하며 운동을 지지한다.
+[[entity:syngman-rhee|이승만]] 전 대통령의 애국·반공 정신과 [[entity:park-chung-hee|박정희]] 전 대통령의 새마을운동 정신을 계승하는 것으로 정의된다. 옹호자들은 이를 '자유와 공동의 이익'을 동시에 추구하는 애국 활동으로 프레이밍하고 있다.
 
-## 주요 쟁점
+## 국제적 맥락
 
-[[organization:kookmin-power|국민의힘]] 내 절윤(절대 윤석열) 선언에 대한 비판, [[topic:korean-election-fraud-conspiracy|부정선거]] 관련 정책 입장, 당 대표 선출 후의 정책 변화에 대한 논의가 주요 이슈이다.
+지지자들은 [[topic:korea-us-japan-alliance|한·미·일 동맹]]과 미국의 이익과 연결된 사안으로 강조하며, 도널드 트럼프 당선인의 국제적 개입을 요청하고 있다.
