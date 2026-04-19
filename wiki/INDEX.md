@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 90개 페이지
+> 자동 생성: 2026-04-19 | 전체 94개 페이지
 
-## 인물 (29)
+## 인물 (30)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -33,6 +33,7 @@
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
+- [[wiki/entity/jean-cummings|Jean Cummings]]
 
 ## 단체 (10)
 
@@ -47,7 +48,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (39)
+## 주제 (41)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -63,6 +64,7 @@
 - [[wiki/topic/conservative-online-activism|보수 진영 온라인 활동]]
 - [[wiki/topic/korean-election-fraud-conspiracy|부정선거 음모론]]
 - [[wiki/topic/korean-election-fraud-conspiracy|부정선거 음모론]]
+- [[wiki/topic/korean-emergency-martial-law|비상계엄]]
 - [[wiki/topic/korean-emergency-martial-law|비상계엄]]
 - [[wiki/topic/sitsa-in-jeongchi-wae-geulae|시사IN <정치왜그래>]]
 - [[wiki/topic/one-korea-network|원코리아네트워크]]
@@ -86,6 +88,7 @@
 - [[wiki/topic/korea-us-alliance|한미동맹]]
 - [[wiki/topic/han-mi-alliance|한미동맹단]]
 - [[wiki/topic/han-mi-leaders-forum|한미리더스포럼]]
+- [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 
@@ -97,12 +100,13 @@
 - [[wiki/cluster/korean-youtubers|한국 유튜버 클러스터]]
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
 
-## 이벤트 (7)
+## 이벤트 (8)
 
 - [[wiki/event/kim-saeron-death-incident|김새론 사망 사건]]
 - [[wiki/event/moon-jae-in-residence-protest-incident|문재인 사저 앞 시위 논란]]
 - [[wiki/event/false-election-gods-work-2025|부정선거, 신의 작품인가]]
 - [[wiki/event/film-election-fraud-gods-work|부정선거, 신의 작품인가 (영화)]]
 - [[wiki/event/buddha-birthday-jogye-temple-incident|부처님오신날 조계사 앞 전도 및 기도행진 논란]]
+- [[wiki/event/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 1심 판결 (2026)]]
 - [[wiki/event/kookmin-power-debate-battle-1|제1회 국민의힘 토론배틀: 나는 국민의힘 대변인이다]]
 - [[wiki/event/jeju-air-2216-runway-incident|제주항공 2216편 활주로 이탈 사고]]
