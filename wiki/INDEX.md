@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 102개 페이지
+> 자동 생성: 2026-04-19 | 전체 107개 페이지
 
-## 인물 (32)
+## 인물 (34)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -32,6 +32,8 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
+- [[wiki/entity/freedom|freedom]]
+- [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
@@ -50,7 +52,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (44)
+## 주제 (45)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -95,6 +97,7 @@
 - [[wiki/topic/anti-lee-jae-myung|anti-lee-jae-myung]]
 - [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
+- [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 
 ## 클러스터 (6)
@@ -106,8 +109,10 @@
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
 - [[wiki/cluster/pro-lee-nak-yeon-activists|pro-lee-nak-yeon-activists]]
 
-## 이벤트 (10)
+## 이벤트 (12)
 
+- [[wiki/event/december-3-martial-law|12.3 비상계엄]]
+- [[wiki/event/december-3-martial-law|12.3 비상계엄]]
 - [[wiki/event/kim-saeron-death-incident|김새론 사망 사건]]
 - [[wiki/event/moon-jae-in-residence-protest-incident|문재인 사저 앞 시위 논란]]
 - [[wiki/event/false-election-gods-work-2025|부정선거, 신의 작품인가]]
