@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 61개 페이지
+> 자동 생성: 2026-04-19 | 전체 62개 페이지
 
-## 인물 (14)
+## 인물 (15)
 
 - [[wiki/entity/gordon-chang|고든 창]]
 - [[wiki/entity/ko-sung-kuk|고성국]]
@@ -16,6 +16,7 @@
 - [[wiki/entity/baek-ji-won|백지원]]
 - [[wiki/entity/ahn-jung-kwon|안정권]]
 - [[wiki/entity/annie-chan|애니 챈]]
+- [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 
