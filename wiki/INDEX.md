@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 110개 페이지
+> 자동 생성: 2026-04-19 | 전체 113개 페이지
 
-## 인물 (35)
+## 인물 (36)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -32,6 +32,7 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/haeng-un|행운]]
+- [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 - [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/freedom|freedom]]
@@ -53,7 +54,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (47)
+## 주제 (49)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -66,6 +67,7 @@
 - [[wiki/topic/us-ambassador-icc|미국 국제형사사법대사]]
 - [[wiki/topic/us-ambassador-icc|미국 국제형사사법대사]]
 - [[wiki/topic/korean-democracy-advisory-conference|민주평화통일자문회의]]
+- [[wiki/topic/anti-communism|반공주의]]
 - [[wiki/topic/anti-china-discourse|반중 담론]]
 - [[wiki/topic/conservative-online-activism|보수 진영 온라인 활동]]
 - [[wiki/topic/korean-election-fraud-conspiracy|부정선거 음모론]]
@@ -78,6 +80,7 @@
 - [[wiki/topic/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 사건]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
 - [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
+- [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
