@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 64개 페이지
+> 자동 생성: 2026-04-19 | 전체 66개 페이지
 
-## 인물 (16)
+## 인물 (17)
 
 - [[wiki/entity/gordon-chang|고든 창]]
 - [[wiki/entity/ko-sung-kuk|고성국]]
@@ -19,6 +19,7 @@
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/jeon-han-gil|전한길]]
+- [[wiki/entity/chatter|채터]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 
 ## 단체 (8)
@@ -32,7 +33,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (31)
+## 주제 (32)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -51,6 +52,7 @@
 - [[wiki/topic/one-korea-network|원코리아네트워크]]
 - [[wiki/topic/youtube-political-commentary|유튜브 정치 논평]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
+- [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
