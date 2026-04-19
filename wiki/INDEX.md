@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 81개 페이지
+> 자동 생성: 2026-04-19 | 전체 82개 페이지
 
-## 인물 (24)
+## 인물 (25)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -22,6 +22,7 @@
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/yoon-eogain|윤어게인]]
+- [[wiki/entity/euncia-solution|이성을 찾자! YOON AGAIN! RESET KOREA!]]
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
