@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 87개 페이지
+> 자동 생성: 2026-04-19 | 전체 90개 페이지
 
-## 인물 (28)
+## 인물 (29)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -32,6 +32,7 @@
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/hchannelx|HchannelX]]
+- [[wiki/entity/jean-cummings|Jean Cummings]]
 
 ## 단체 (10)
 
@@ -46,7 +47,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (37)
+## 주제 (39)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -62,9 +63,11 @@
 - [[wiki/topic/conservative-online-activism|보수 진영 온라인 활동]]
 - [[wiki/topic/korean-election-fraud-conspiracy|부정선거 음모론]]
 - [[wiki/topic/korean-election-fraud-conspiracy|부정선거 음모론]]
+- [[wiki/topic/korean-emergency-martial-law|비상계엄]]
 - [[wiki/topic/sitsa-in-jeongchi-wae-geulae|시사IN <정치왜그래>]]
 - [[wiki/topic/one-korea-network|원코리아네트워크]]
 - [[wiki/topic/youtube-political-commentary|유튜브 정치 논평]]
+- [[wiki/topic/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 사건]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
 - [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
