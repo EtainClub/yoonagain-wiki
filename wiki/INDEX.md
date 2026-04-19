@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 78개 페이지
+> 자동 생성: 2026-04-19 | 전체 81개 페이지
 
-## 인물 (23)
+## 인물 (24)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -27,6 +27,7 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 - [[wiki/entity/hchannelx|HchannelX]]
+- [[wiki/entity/hchannelx|HchannelX]]
 
 ## 단체 (10)
 
@@ -41,7 +42,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (35)
+## 주제 (37)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -62,6 +63,7 @@
 - [[wiki/topic/youtube-political-commentary|유튜브 정치 논평]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
 - [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
+- [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
@@ -78,6 +80,7 @@
 - [[wiki/topic/han-mi-alliance|한미동맹단]]
 - [[wiki/topic/han-mi-leaders-forum|한미리더스포럼]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
+- [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 
 ## 클러스터 (5)
 
