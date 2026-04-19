@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 107개 페이지
+> 자동 생성: 2026-04-19 | 전체 110개 페이지
 
-## 인물 (34)
+## 인물 (35)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/gordon-chang|고든 창]]
@@ -31,6 +31,7 @@
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
+- [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
 - [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/freedom|freedom]]
@@ -52,7 +53,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (45)
+## 주제 (47)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -82,6 +83,7 @@
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
 - [[wiki/topic/pro-lee-nak-yeon|친이낙연]]
+- [[wiki/topic/korea-us-japan-alliance|한·미·일 동맹]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
 - [[wiki/topic/korean-conspiracy-theories|한국 음모론]]
 - [[wiki/topic/korean-political-persecution|한국 정치 박해]]
@@ -99,6 +101,7 @@
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 - [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
+- [[wiki/topic/yoon-again-movement|Yoon Again 운동]]
 
 ## 클러스터 (6)
 
