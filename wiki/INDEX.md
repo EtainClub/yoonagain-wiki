@@ -1,10 +1,11 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-19 | 전체 113개 페이지
+> 자동 생성: 2026-04-21 | 전체 114개 페이지
 
-## 인물 (36)
+## 인물 (37)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
+- [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
 - [[wiki/entity/gordon-chang|고든 창]]
 - [[wiki/entity/ko-sung-kuk|고성국]]
 - [[wiki/entity/groundc|그라운드C]]
