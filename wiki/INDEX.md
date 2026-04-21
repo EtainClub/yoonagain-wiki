@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-21 | 전체 114개 페이지
+> 자동 생성: 2026-04-21 | 전체 115개 페이지
 
-## 인물 (37)
+## 인물 (38)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -25,6 +25,7 @@
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/yoon-suk-yeol|윤석열]]
 - [[wiki/entity/yoon-eogain|윤어게인]]
+- [[wiki/entity/yoon-again-jeupnyangyi|윤어게인즙냥이]]
 - [[wiki/entity/euncia-solution|이성을 찾자! YOON AGAIN! RESET KOREA!]]
 - [[wiki/entity/eunicias-solution|이성을 찾자! YOON AGAIN! RESET KOREA!]]
 - [[wiki/entity/lee-young-don|이영돈]]
