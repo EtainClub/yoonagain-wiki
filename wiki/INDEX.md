@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 144개 페이지
+> 자동 생성: 2026-04-22 | 전체 148개 페이지
 
-## 인물 (52)
+## 인물 (56)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -24,6 +24,8 @@
 - [[wiki/entity/baek-ji-won|백지원]]
 - [[wiki/entity/son-hyun-bo|손현보]]
 - [[wiki/entity/son-hyeon-bo|손현보]]
+- [[wiki/entity/son-hyun-bo|손현보]]
+- [[wiki/entity/son-hyun-bo|손현보]]
 - [[wiki/entity/ahn-jung-kwon|안정권]]
 - [[wiki/entity/annie-chan|애니 챈]]
 - [[wiki/entity/ohmahahm|오함마]]
@@ -46,6 +48,8 @@
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
+- [[wiki/entity/chance-son|Chance Son]]
+- [[wiki/entity/chance-son|Chance Son]]
 - [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/hchannelx|HchannelX]]
