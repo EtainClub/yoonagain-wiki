@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 131개 페이지
+> 자동 생성: 2026-04-22 | 전체 133개 페이지
 
-## 인물 (45)
+## 인물 (46)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -49,6 +49,7 @@
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
+- [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 
 ## 단체 (12)
 
@@ -65,7 +66,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (55)
+## 주제 (56)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -119,6 +120,7 @@
 - [[wiki/topic/anti-lee-jae-myung|anti-lee-jae-myung]]
 - [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
+- [[wiki/topic/x-political-commentary-influencers|X 정치 논평 인플루언서]]
 - [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 - [[wiki/topic/yoon-again-movement|Yoon Again 운동]]
