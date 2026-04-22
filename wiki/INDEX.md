@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 130개 페이지
+> 자동 생성: 2026-04-22 | 전체 131개 페이지
 
-## 인물 (44)
+## 인물 (45)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -48,6 +48,7 @@
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
+- [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 
 ## 단체 (12)
 
