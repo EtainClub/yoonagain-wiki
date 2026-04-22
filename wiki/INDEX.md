@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 124개 페이지
+> 자동 생성: 2026-04-22 | 전체 127개 페이지
 
-## 인물 (42)
+## 인물 (43)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -20,6 +20,7 @@
 - [[wiki/entity/baek-gwang-hyun|백광현]]
 - [[wiki/entity/baek-gwang-hyun|백광현]]
 - [[wiki/entity/baek-ji-won|백지원]]
+- [[wiki/entity/son-hyun-bo|손현보]]
 - [[wiki/entity/ahn-jung-kwon|안정권]]
 - [[wiki/entity/annie-chan|애니 챈]]
 - [[wiki/entity/ohmahahm|오함마]]
@@ -47,9 +48,10 @@
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 
-## 단체 (10)
+## 단체 (11)
 
 - [[wiki/organization/kookmin-power|국민의힘]]
+- [[wiki/organization/segyero-church|세계로교회]]
 - [[wiki/organization/epod-independent-denomination|에포드 독립교단]]
 - [[wiki/organization/jayuwa-hyeoksin|자유와혁신]]
 - [[wiki/organization/tesla-shareholders-community|테슬라주주커뮤니티]]
@@ -60,7 +62,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (54)
+## 주제 (55)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -84,6 +86,7 @@
 - [[wiki/topic/korean-emergency-martial-law|비상계엄]]
 - [[wiki/topic/save-korea-national-emergency-prayer-meeting|세이브코리아 국가비상기도회]]
 - [[wiki/topic/save-korea-national-emergency-prayer-meeting|세이브코리아 국가비상기도회]]
+- [[wiki/topic/savekorea-national-emergency-prayer-meeting|세이브코리아 국가비상기도회]]
 - [[wiki/topic/sitsa-in-jeongchi-wae-geulae|시사IN <정치왜그래>]]
 - [[wiki/topic/one-korea-network|원코리아네트워크]]
 - [[wiki/topic/youtube-political-commentary|유튜브 정치 논평]]
