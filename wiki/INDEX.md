@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 127개 페이지
+> 자동 생성: 2026-04-22 | 전체 130개 페이지
 
-## 인물 (43)
+## 인물 (44)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -21,6 +21,7 @@
 - [[wiki/entity/baek-gwang-hyun|백광현]]
 - [[wiki/entity/baek-ji-won|백지원]]
 - [[wiki/entity/son-hyun-bo|손현보]]
+- [[wiki/entity/son-hyeon-bo|손현보]]
 - [[wiki/entity/ahn-jung-kwon|안정권]]
 - [[wiki/entity/annie-chan|애니 챈]]
 - [[wiki/entity/ohmahahm|오함마]]
@@ -48,9 +49,10 @@
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 
-## 단체 (11)
+## 단체 (12)
 
 - [[wiki/organization/kookmin-power|국민의힘]]
+- [[wiki/organization/segyero-church|세계로교회]]
 - [[wiki/organization/segyero-church|세계로교회]]
 - [[wiki/organization/epod-independent-denomination|에포드 독립교단]]
 - [[wiki/organization/jayuwa-hyeoksin|자유와혁신]]
@@ -129,7 +131,7 @@
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
 - [[wiki/cluster/pro-lee-nak-yeon-activists|pro-lee-nak-yeon-activists]]
 
-## 이벤트 (12)
+## 이벤트 (13)
 
 - [[wiki/event/december-3-martial-law|12.3 비상계엄]]
 - [[wiki/event/december-3-martial-law|12.3 비상계엄]]
@@ -138,6 +140,7 @@
 - [[wiki/event/false-election-gods-work-2025|부정선거, 신의 작품인가]]
 - [[wiki/event/film-election-fraud-gods-work|부정선거, 신의 작품인가 (영화)]]
 - [[wiki/event/buddha-birthday-jogye-temple-incident|부처님오신날 조계사 앞 전도 및 기도행진 논란]]
+- [[wiki/event/save-korea-national-emergency-prayer-meeting|세이브코리아 국가비상기도회]]
 - [[wiki/event/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 1심 판결 (2026)]]
 - [[wiki/event/lee-nak-yeon-primary-election-protest|이낙연 지지자 민주당 경선 선관위 결정 불복 시위]]
 - [[wiki/event/lee-nak-yeon-supporters-primary-protest|이낙연 지지자 민주당 경선 선관위 결정 불복 시위]]
