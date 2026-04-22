@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 139개 페이지
+> 자동 생성: 2026-04-22 | 전체 142개 페이지
 
-## 인물 (50)
+## 인물 (51)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -54,6 +54,7 @@
 - [[wiki/entity/jean-cummings|Jean Cummings]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
+- [[wiki/entity/son-steven|Son steven]]
 
 ## 단체 (12)
 
@@ -70,11 +71,12 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (58)
+## 주제 (59)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
 - [[wiki/topic/518-gwangju-uprising|518 민주화운동]]
+- [[wiki/topic/international-election-monitoring-team-korea|국제선거감시단(IEM)]]
 - [[wiki/topic/korean-far-right-youtubers|극우 유튜버]]
 - [[wiki/topic/korean-far-right-youtubers|극우 유튜버]]
 - [[wiki/topic/dae-an-u-pa|대안 우파]]
@@ -140,10 +142,11 @@
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
 - [[wiki/cluster/pro-lee-nak-yeon-activists|pro-lee-nak-yeon-activists]]
 
-## 이벤트 (13)
+## 이벤트 (14)
 
 - [[wiki/event/december-3-martial-law|12.3 비상계엄]]
 - [[wiki/event/december-3-martial-law|12.3 비상계엄]]
+- [[wiki/event/korea-2025-june-presidential-election-fraud-allegations|2025년 6월 한국 대선 부정선거 의혹]]
 - [[wiki/event/kim-saeron-death-incident|김새론 사망 사건]]
 - [[wiki/event/moon-jae-in-residence-protest-incident|문재인 사저 앞 시위 논란]]
 - [[wiki/event/false-election-gods-work-2025|부정선거, 신의 작품인가]]
