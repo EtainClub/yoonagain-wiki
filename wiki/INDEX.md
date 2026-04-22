@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 116개 페이지
+> 자동 생성: 2026-04-22 | 전체 118개 페이지
 
-## 인물 (39)
+## 인물 (40)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -31,6 +31,7 @@
 - [[wiki/entity/lee-young-don|이영돈]]
 - [[wiki/entity/lee-young-don|이영돈]]
 - [[wiki/entity/voice-of-freedom|自由の声(자유의 목소리)]]
+- [[wiki/entity/voice-of-freedom|自由の声(자유의 목소리)]]
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
@@ -57,7 +58,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (49)
+## 주제 (50)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -83,6 +84,7 @@
 - [[wiki/topic/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 사건]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
 - [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
+- [[wiki/topic/yoon-ageain|윤어게인]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
