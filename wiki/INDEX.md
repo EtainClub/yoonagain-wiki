@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 137개 페이지
+> 자동 생성: 2026-04-22 | 전체 139개 페이지
 
-## 인물 (49)
+## 인물 (50)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -42,6 +42,7 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
+- [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
@@ -69,7 +70,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (57)
+## 주제 (58)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -126,6 +127,7 @@
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 - [[wiki/topic/x-political-commentary-influencers|X 정치 논평 인플루언서]]
 - [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
+- [[wiki/topic/x-platform-political-commentary|X 플랫폼 정치 논평]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 - [[wiki/topic/yoon-again-movement|Yoon Again 운동]]
 
