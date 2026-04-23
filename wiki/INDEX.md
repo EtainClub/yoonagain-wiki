@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-23 | 전체 155개 페이지
+> 자동 생성: 2026-04-23 | 전체 157개 페이지
 
-## 인물 (59)
+## 인물 (60)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -44,6 +44,7 @@
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/koreahjhm-x-account|천안문광장 짜장퇴치암호]]
+- [[wiki/entity/koreahjhm-x-account|천안문광장 짜장퇴치암호]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/haeng-un|행운]]
@@ -79,7 +80,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (63)
+## 주제 (64)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -127,6 +128,7 @@
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
 - [[wiki/topic/korean-conspiracy-theories|한국 음모론]]
 - [[wiki/topic/korean-political-persecution|한국 정치 박해]]
+- [[wiki/topic/korean-politics-social-media-activists|한국 정치 소셜미디어 활동가]]
 - [[wiki/topic/korean-political-youtubers|한국 정치 유튜버]]
 - [[wiki/topic/korean-religious-youtubers|한국 종교 유튜버]]
 - [[wiki/topic/korean-religious-youtube-channels|한국 종교 유튜브 채널]]
