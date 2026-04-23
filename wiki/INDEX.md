@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-22 | 전체 154개 페이지
+> 자동 생성: 2026-04-23 | 전체 155개 페이지
 
-## 인물 (58)
+## 인물 (59)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -43,6 +43,7 @@
 - [[wiki/entity/jeon-han-gil|전한길]]
 - [[wiki/entity/chatter|채터]]
 - [[wiki/entity/chatter|채터]]
+- [[wiki/entity/koreahjhm-x-account|천안문광장 짜장퇴치암호]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/haeng-un|행운]]
