@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-24 | 전체 159개 페이지
+> 자동 생성: 2026-04-24 | 전체 160개 페이지
 
-## 인물 (62)
+## 인물 (63)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -56,6 +56,7 @@
 - [[wiki/entity/chance-son|Chance Son]]
 - [[wiki/entity/freedom|freedom]]
 - [[wiki/entity/freedom|freedom]]
+- [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/hchannelx|HchannelX]]
 - [[wiki/entity/jean-cummings|Jean Cummings]]
