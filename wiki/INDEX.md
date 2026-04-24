@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-23 | 전체 157개 페이지
+> 자동 생성: 2026-04-24 | 전체 158개 페이지
 
-## 인물 (60)
+## 인물 (61)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -18,6 +18,7 @@
 - [[wiki/entity/kim-young-hyun|김영현]]
 - [[wiki/entity/morse-tan|모스 탄]]
 - [[wiki/entity/morse-tan|모스 탄]]
+- [[wiki/entity/misterkung-with-sincerity|미스터쿵(with 진정성)]]
 - [[wiki/entity/park-joo-hyeon|박주현]]
 - [[wiki/entity/baek-gwang-hyun|백광현]]
 - [[wiki/entity/baek-gwang-hyun|백광현]]
