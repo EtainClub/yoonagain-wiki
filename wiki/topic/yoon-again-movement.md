@@ -3,20 +3,20 @@ pageId: topic:yoon-again-movement
 pageType: topic
 slug: yoon-again-movement
 title: "윤어게인 운동"
-tags: [보수운동, 정치운동, 한국정치]
-keywords: [윤어게인, 자유, 공정, 윤석열, 보수진영]
+tags: [정치운동, 보수진영, 직무복귀, 집회]
+keywords: [윤어게인, 윤석열, 직무복귀, 보수운동]
 generatedAt: 2026-04-25
 generatedBy: claude-haiku-4-5
 ---
 
 ## 개요
 
-윤어게인 운동은 [[entity:yokiz|YOKIZ]]를 포함한 보수 진영의 활동가들이 주도하는 운동이다.
+윤어게인 운동은 [[entity:yoon-seok-yeol|윤석열]] 대통령의 직무 복귀를 목표로 하는 보수 진영의 정치 운동이다.
 
-## 정신과 의미
+## 활동 형태
 
-윤어게인은 '자유와 공정' 등의 함축적 의미를 내포하고 있으며, '사람을 추종하는 게 아닌 자신의 모든 권력과 안위를 내려놓고 국민들의 자유권리를 지키기 위해 희생한 정신'으로 정의되고 있다. [[entity:yokiz|YOKIZ]]에 따르면 [[topic:jayuwa-daehak|자유대학]]도 이러한 의미로 활동하고 있다.
+운동 참여자들은 편지 작성, 서명 활동, SNS 포스팅, 정보 수집, 시위 및 집회 참가 등 다양한 형태의 활동을 추진하고 있다.
 
-## 주요 인물
+## 참여 인물
 
-[[entity:yokiz|YOKIZ]], [[entity:jeon-han-gil|전한길]], [[entity:hwang-kyo-ahn|황교안]] 등이 관련되어 있다.
+[[entity:vanesa-martin|Vanesa Martin]] 등 여러 보수 인플루언서 및 활동가들이 이 운동에 참여하고 있다.
