@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 178개 페이지
+> 자동 생성: 2026-04-25 | 전체 182개 페이지
 
-## 인물 (70)
+## 인물 (71)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -70,6 +70,7 @@
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/muichiro|MUICHIRO]]
+- [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/pee2025|pee2025]]
 - [[wiki/entity/pee2025|pee2025🇰🇷🇺🇸🇯🇵🇮🇱🇧🇷]]
 - [[wiki/entity/son-steven|Son steven]]
@@ -90,7 +91,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (75)
+## 주제 (78)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -126,6 +127,7 @@
 - [[wiki/topic/youtube-political-commentary|유튜브 정치 논평]]
 - [[wiki/topic/yoon-suk-yeol-insurrection-trial|윤석열 내란죄 사건]]
 - [[wiki/topic/yoon-suk-yeol-social-media|윤석열 대통령 소셜미디어 활동]]
+- [[wiki/topic/yoon-suk-yeol-prosecution-investigation-conservative-backlash|윤석열 전 대통령 검찰 수사 관련 보수진영 반발]]
 - [[wiki/topic/yoon-suk-yeol-persecution-claims|윤석열 정치박해 및 인권침해 주장]]
 - [[wiki/topic/yoon-seok-yeol-support-movement|윤석열 지지운동]]
 - [[wiki/topic/yoon-ageain|윤어게인]]
@@ -143,6 +145,7 @@
 - [[wiki/topic/cheon-jo-guk-pareng-i-political-standards|천조국 파랭이의 정치 기준]]
 - [[wiki/topic/pro-lee-nak-yeon|친이낙연]]
 - [[wiki/topic/korea-us-japan-alliance|한·미·일 동맹]]
+- [[wiki/topic/korean-education-history-narrative-controversy|한국 교육에서의 역사 서술 논쟁]]
 - [[wiki/topic/korean-education-anti-japan-discourse-criticism|한국 교육의 반일 담론 비판]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
 - [[wiki/topic/korean-conspiracy-theories|한국 음모론]]
@@ -158,6 +161,7 @@
 - [[wiki/topic/han-mi-alliance|한미동맹단]]
 - [[wiki/topic/han-mi-leaders-forum|한미리더스포럼]]
 - [[wiki/topic/korea-us-japan-alliance|한미일 삼국 연대]]
+- [[wiki/topic/hyochang-park-national-status-debate|효창공원 국립공원 승격 논의]]
 - [[wiki/topic/anti-lee-jae-myung|anti-lee-jae-myung]]
 - [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
