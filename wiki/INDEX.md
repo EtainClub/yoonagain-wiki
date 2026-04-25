@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 203개 페이지
+> 자동 생성: 2026-04-25 | 전체 206개 페이지
 
-## 인물 (82)
+## 인물 (83)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -86,6 +86,7 @@
 - [[wiki/entity/soulfree|soulfree]]
 - [[wiki/entity/soulfree|soulfree]]
 - [[wiki/entity/yokiz|YOKIZ]]
+- [[wiki/entity/yokiz|YOKIZ]]
 
 ## 단체 (13)
 
@@ -103,7 +104,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (86)
+## 주제 (88)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -156,7 +157,9 @@
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
+- [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
+- [[wiki/topic/jayuwa-daehak|자유대학]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/jayuwa-hyeoksin-2024|자유통일당 2024]]
 - [[wiki/topic/wartime-opcon-transfer-controversy|전작권 이양 논쟁]]
