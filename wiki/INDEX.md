@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 161개 페이지
+> 자동 생성: 2026-04-25 | 전체 163개 페이지
 
-## 인물 (64)
+## 인물 (65)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -48,6 +48,7 @@
 - [[wiki/entity/koreahjhm-x-account|천안문광장 짜장퇴치암호]]
 - [[wiki/entity/koreahjhm-x-account|천안문광장 짜장퇴치암호]]
 - [[wiki/entity/cheon-jo-guk-pa-raengi|천조국 파랭이]]
+- [[wiki/entity/cheon-jo-guk-pareng-i|천조국 파랭이]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/cleaner-korrooftoparody|청소부/CLEANER]]
 - [[wiki/entity/haeng-un|행운]]
@@ -84,7 +85,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (64)
+## 주제 (65)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -127,6 +128,7 @@
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
+- [[wiki/topic/cheon-jo-guk-pareng-i-political-standards|천조국 파랭이의 정치 기준]]
 - [[wiki/topic/pro-lee-nak-yeon|친이낙연]]
 - [[wiki/topic/korea-us-japan-alliance|한·미·일 동맹]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
