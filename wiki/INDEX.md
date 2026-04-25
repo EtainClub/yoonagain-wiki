@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 196개 페이지
+> 자동 생성: 2026-04-25 | 전체 201개 페이지
 
-## 인물 (79)
+## 인물 (81)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -56,6 +56,8 @@
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/haeng-un|행운]]
 - [[wiki/entity/hwang-kyo-ahn|황교안]]
+- [[wiki/entity/celeste-korean-american|celeste 🇰🇷🇺🇸]]
+- [[wiki/entity/celeste-eun12125722|celeste 🇰🇷🇺🇸]]
 - [[wiki/entity/chance-son|Chance Son]]
 - [[wiki/entity/chance-son|Chance Son]]
 - [[wiki/entity/freedom|freedom]]
@@ -100,7 +102,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (83)
+## 주제 (85)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -145,6 +147,8 @@
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-uh-gain|윤어게인]]
+- [[wiki/topic/yoon-again-movement|윤어게인]]
+- [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again-discourse|윤어게인 담론]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
@@ -186,13 +190,14 @@
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
 - [[wiki/topic/yoon-again-movement|Yoon Again 운동]]
 
-## 클러스터 (6)
+## 클러스터 (7)
 
 - [[wiki/cluster/conservative-political-influencers|보수 정치 인플루언서]]
 - [[wiki/cluster/conservative-activists|보수 활동가 클러스터]]
 - [[wiki/cluster/youth-conservative-activists|청년 보수 활동가 및 논평자]]
 - [[wiki/cluster/korean-youtubers|한국 유튜버 클러스터]]
 - [[wiki/cluster/religious-youtubers|한국 종교 유튜버 클러스터]]
+- [[wiki/cluster/korean-american-conservative-influencers|한국계 미국인 보수 인플루언서]]
 - [[wiki/cluster/pro-lee-nak-yeon-activists|pro-lee-nak-yeon-activists]]
 
 ## 이벤트 (15)
