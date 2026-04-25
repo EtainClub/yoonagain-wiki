@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 195개 페이지
+> 자동 생성: 2026-04-25 | 전체 196개 페이지
 
-## 인물 (78)
+## 인물 (79)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -41,6 +41,7 @@
 - [[wiki/entity/lee-young-don|이영돈]]
 - [[wiki/entity/lee-young-don|이영돈]]
 - [[wiki/entity/freedom-watchman-korean-us|자유의 파수꾼 🇰🇷 🇺🇸]]
+- [[wiki/entity/freedom-watchman-kr-us|자유의 파수꾼 🇰🇷 🇺🇸]]
 - [[wiki/entity/voice-of-freedom|自由の声(자유의 목소리)]]
 - [[wiki/entity/voice-of-freedom|自由の声(자유의 목소리)]]
 - [[wiki/entity/jeon-han-gil|전한길]]
