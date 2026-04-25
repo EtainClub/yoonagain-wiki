@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 191개 페이지
+> 자동 생성: 2026-04-25 | 전체 192개 페이지
 
-## 인물 (75)
+## 인물 (76)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -69,6 +69,7 @@
 - [[wiki/entity/korea-war-room|Korea War Room]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
+- [[wiki/entity/licrypto|LiCrypto 🇰🇷]]
 - [[wiki/entity/mindlene|mindlene]]
 - [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/muichiro|MUICHIRO]]
