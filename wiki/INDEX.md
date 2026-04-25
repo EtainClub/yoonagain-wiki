@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 173개 페이지
+> 자동 생성: 2026-04-25 | 전체 175개 페이지
 
-## 인물 (68)
+## 인물 (69)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -70,6 +70,7 @@
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/pee2025|pee2025]]
+- [[wiki/entity/pee2025|pee2025🇰🇷🇺🇸🇯🇵🇮🇱🇧🇷]]
 - [[wiki/entity/son-steven|Son steven]]
 - [[wiki/entity/son-steven|Son steven]]
 
@@ -88,7 +89,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (72)
+## 주제 (73)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -131,6 +132,7 @@
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again-discourse|윤어게인 담론]]
+- [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
