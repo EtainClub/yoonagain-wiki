@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 185개 페이지
+> 자동 생성: 2026-04-25 | 전체 189개 페이지
 
-## 인물 (72)
+## 인물 (74)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -69,6 +69,7 @@
 - [[wiki/entity/korea-war-room|Korea War Room]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
+- [[wiki/entity/mindlene|mindlene]]
 - [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/pee2025|pee2025]]
@@ -76,6 +77,7 @@
 - [[wiki/entity/rmindle97082|RMindle97082]]
 - [[wiki/entity/son-steven|Son steven]]
 - [[wiki/entity/son-steven|Son steven]]
+- [[wiki/entity/soulfree|soulfree]]
 
 ## 단체 (13)
 
@@ -93,7 +95,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (79)
+## 주제 (81)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -136,6 +138,7 @@
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
+- [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again-discourse|윤어게인 담론]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
@@ -143,6 +146,7 @@
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/elon-musk-korea-visit|일론 머스크 방한]]
 - [[wiki/topic/free-lawyers-association|자유변호사협회]]
+- [[wiki/topic/jayuwa-hyeoksin-2024|자유통일당 2024]]
 - [[wiki/topic/wartime-opcon-transfer-controversy|전작권 이양 논쟁]]
 - [[wiki/topic/china-collapse-theory|중국 붕괴론]]
 - [[wiki/topic/cheon-jo-guk-pareng-i-political-standards|천조국 파랭이의 정치 기준]]
