@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 182개 페이지
+> 자동 생성: 2026-04-25 | 전체 185개 페이지
 
-## 인물 (71)
+## 인물 (72)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -73,16 +73,18 @@
 - [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/pee2025|pee2025]]
 - [[wiki/entity/pee2025|pee2025🇰🇷🇺🇸🇯🇵🇮🇱🇧🇷]]
+- [[wiki/entity/rmindle97082|RMindle97082]]
 - [[wiki/entity/son-steven|Son steven]]
 - [[wiki/entity/son-steven|Son steven]]
 
-## 단체 (12)
+## 단체 (13)
 
 - [[wiki/organization/kookmin-power|국민의힘]]
 - [[wiki/organization/segyero-church|세계로교회]]
 - [[wiki/organization/segyero-church|세계로교회]]
 - [[wiki/organization/epod-independent-denomination|에포드 독립교단]]
 - [[wiki/organization/jayuwa-hyeoksin|자유와혁신]]
+- [[wiki/organization/jayuwa-tongil-dang|자유통일당]]
 - [[wiki/organization/tesla-shareholders-community|테슬라주주커뮤니티]]
 - [[wiki/organization/tesla-shareholders-community|테슬라주주커뮤니티]]
 - [[wiki/organization/korean-conservative-alliance|한국보수주의연합]]
@@ -91,7 +93,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (78)
+## 주제 (79)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -135,6 +137,7 @@
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again-discourse|윤어게인 담론]]
+- [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
