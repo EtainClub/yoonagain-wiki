@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 175개 페이지
+> 자동 생성: 2026-04-25 | 전체 178개 페이지
 
-## 인물 (69)
+## 인물 (70)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -69,6 +69,7 @@
 - [[wiki/entity/korea-war-room|Korea War Room]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
+- [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/pee2025|pee2025]]
 - [[wiki/entity/pee2025|pee2025🇰🇷🇺🇸🇯🇵🇮🇱🇧🇷]]
 - [[wiki/entity/son-steven|Son steven]]
@@ -89,7 +90,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (73)
+## 주제 (75)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -142,6 +143,7 @@
 - [[wiki/topic/cheon-jo-guk-pareng-i-political-standards|천조국 파랭이의 정치 기준]]
 - [[wiki/topic/pro-lee-nak-yeon|친이낙연]]
 - [[wiki/topic/korea-us-japan-alliance|한·미·일 동맹]]
+- [[wiki/topic/korean-education-anti-japan-discourse-criticism|한국 교육의 반일 담론 비판]]
 - [[wiki/topic/korean-conservative-movement|한국 보수운동]]
 - [[wiki/topic/korean-conspiracy-theories|한국 음모론]]
 - [[wiki/topic/korean-political-persecution|한국 정치 박해]]
@@ -159,6 +161,7 @@
 - [[wiki/topic/anti-lee-jae-myung|anti-lee-jae-myung]]
 - [[wiki/topic/us-korea-affairs-columnism|US-Korea Affairs 칼럼니즘]]
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
+- [[wiki/topic/x-based-overseas-conservative-influencers|X 기반 해외 보수 인플루언서]]
 - [[wiki/topic/x-political-commentary-influencers|X 정치 논평 인플루언서]]
 - [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-platform-political-commentary|X 플랫폼 정치 논평]]
