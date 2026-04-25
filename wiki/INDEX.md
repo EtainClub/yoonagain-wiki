@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 192개 페이지
+> 자동 생성: 2026-04-25 | 전체 194개 페이지
 
-## 인물 (76)
+## 인물 (77)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -70,6 +70,7 @@
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/lara-lee|Lara🇰🇷 🇺🇸 🇯🇵]]
 - [[wiki/entity/licrypto|LiCrypto 🇰🇷]]
+- [[wiki/entity/licrypto|LiCrypto 🇰🇷]]
 - [[wiki/entity/mindlene|mindlene]]
 - [[wiki/entity/muichiro|MUICHIRO]]
 - [[wiki/entity/muichiro|MUICHIRO]]
@@ -97,7 +98,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (82)
+## 주제 (83)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -177,6 +178,7 @@
 - [[wiki/topic/wcc-wea-criticism|WCC와 WEA에 대한 기독교 우파의 비판]]
 - [[wiki/topic/x-based-overseas-conservative-influencers|X 기반 해외 보수 인플루언서]]
 - [[wiki/topic/x-political-commentary-influencers|X 정치 논평 인플루언서]]
+- [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-political-influencers|X 정치 인플루언서]]
 - [[wiki/topic/x-platform-political-commentary|X 플랫폼 정치 논평]]
 - [[wiki/topic/x-platform|X(트위터) 정치 활동]]
