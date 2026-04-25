@@ -1,8 +1,8 @@
 # Yoon Again Wiki — Index
 
-> 자동 생성: 2026-04-25 | 전체 201개 페이지
+> 자동 생성: 2026-04-25 | 전체 203개 페이지
 
-## 인물 (81)
+## 인물 (82)
 
 - [[wiki/entity/yoon-eo-gain|#윤어게인]]
 - [[wiki/entity/yoon-again-jjupnyang-i|🗽윤어게인즙냥이]]
@@ -85,6 +85,7 @@
 - [[wiki/entity/son-steven|Son steven]]
 - [[wiki/entity/soulfree|soulfree]]
 - [[wiki/entity/soulfree|soulfree]]
+- [[wiki/entity/yokiz|YOKIZ]]
 
 ## 단체 (13)
 
@@ -102,7 +103,7 @@
 - [[wiki/organization/ftner|FTNER]]
 - [[wiki/organization/ftner|FTNER]]
 
-## 주제 (85)
+## 주제 (86)
 
 - [[wiki/topic/12.3-martial-law|12.3 비상계엄]]
 - [[wiki/topic/123-martial-law|12.3 비상계엄]]
@@ -148,6 +149,7 @@
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-uh-gain|윤어게인]]
 - [[wiki/topic/yoon-again-movement|윤어게인]]
+- [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again|윤어게인]]
 - [[wiki/topic/yoon-again-discourse|윤어게인 담론]]
 - [[wiki/topic/yoon-again-movement|윤어게인 운동]]
